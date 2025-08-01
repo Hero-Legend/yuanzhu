@@ -1,3 +1,4 @@
+---
 title: "基于RAID-6的容量扩容布局研究"
 collection: publications
 category: manuscripts
